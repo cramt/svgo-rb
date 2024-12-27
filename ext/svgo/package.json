@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "svgo": "^3.3.2"
+  },
+  "fileToBundle": {
+    "svgo": "lib/svgo.js"
+  }
+}
