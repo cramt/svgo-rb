@@ -8,5 +8,4 @@
 /tmp/
 node_modules
 vendor
-*.npm_ext.js
 *.gem
