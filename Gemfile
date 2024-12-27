@@ -2,6 +2,8 @@
 
 source "https://rubygems.org"
 
+gemspec
+
 gem "rake", "~> 13.0"
 
 gem "minitest", "~> 5.0"
@@ -9,3 +11,5 @@ gem "minitest", "~> 5.0"
 gem "rubocop", "~> 1.21"
 
 gem "rake-compiler", "~> 1.2.8"
+
+# gem "npm_ext", path: "../npm_ext"
