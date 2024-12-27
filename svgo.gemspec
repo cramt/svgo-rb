@@ -24,5 +24,5 @@ Gem::Specification.new do |spec|
   spec.executables = []
   spec.require_paths = ["lib"]
 
-  spec.add_dependency "npm_ext", "0.1.5"
+  spec.add_dependency "npm_ext", "0.1.6"
 end

@@ -9,3 +9,4 @@
 node_modules
 vendor
 *.gem
+lib/svgo/npm_ext.so
